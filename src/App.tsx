@@ -1,11 +1,12 @@
-import Gallery from './components/Gallery'
+import { Parent } from "./components/day1";
+
 
 export default function App() {
-
-    return (
-        <>
-            <Gallery />
-        </>
-    );
+  return (
+    <>
+      <Parent />
+    </>
+  );
 }
+
 
